@@ -21,11 +21,11 @@ $ history | tail -6
 
 ### past lives, with numbers
 
+- Built digital-clone AI platforms: LLM orchestration, RAG pipelines, real-time Slack/Teams/voice integrations
 - Owned the Kubernetes edge serving **60,000+ machines** across global AWS regions — CDN, caching, infra automation at enterprise scale
 - Architected a securities exchange on **Ethereum/Solana** — Golang microservices sustaining **1,000 req/s**, full CI/CD on EKS
 - Took a fintech product **zero → market in <4 months**; built **HIPAA-compliant** data platforms at IBM Watson Health
 - Co-founded a PropTech and built its engineering from nothing to **400K BRL/month** in revenue
-- Built digital-clone AI platforms: LLM orchestration, RAG pipelines, real-time Slack/Teams/voice integrations
 - Upstream contributions to [graphql-go-tools](https://github.com/wundergraph/graphql-go-tools) and [cosmo](https://github.com/wundergraph/cosmo) — GraphQL federation in Go
 
 ### tools I reach for
