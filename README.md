@@ -16,6 +16,7 @@ $ history | tail -6
 
 ### now
 
+- [**assistant**](https://github.com/pedraumcosta/assistant) — a one-day probe of the AI-coding market that answers with measurements instead of opinions: an executable gate judging agent-written changes against hidden checks it can't see. On 165 live runs the gate was wrong zero times — while the agent's own claim vouched for every bad change it made, and a rival model reviewer passed every bad change it saw, then flipped its verdict on identical input. Stopping rules written before the results existed; every figure traces to a verified source or a run record; the mistakes stay in the log.
 - [**strategy-factory**](https://github.com/pedraumcosta/strategy-factory) — an agent pipeline that researches, screens, pre-registers, implements, validates and dry-run-deploys trading strategies. Human signature gates between stages; a trial ledger so the deflated Sharpe is honest; holdout data physically locked until spent by signature. Its test suite is a graveyard: every strategy it ever killed must stay dead, for the documented reason.
 - [**marginalia**](https://github.com/pedraumcosta/marginalia) — retrieval over a Markdown knowledge wiki: local embeddings, section-path citations, and an evaluation harness that reports what it actually measures.
 
